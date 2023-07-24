@@ -1,1 +1,1 @@
- My first readme 
+Let's work hard without getting tired
